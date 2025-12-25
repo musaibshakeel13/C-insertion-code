@@ -17,7 +17,6 @@ int insertion(int arr[],int size,int element,int capacity,int index){
     
     return 1;
 }
-
 int main() {
     int arr[10];
     int size, element ,index;
